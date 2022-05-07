@@ -1,1 +1,1 @@
-# Slick-Carousel
+# Library Management
